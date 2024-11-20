@@ -1,11 +1,12 @@
-# 👋🏼 Hey, ich bin Tim
+# 👋🏼 Hey, i'm Tim!
 
-### 🧑🏼‍💻Informatiker | 💻 Hobby-Entwickler
-- **Ort:** Hamburg
-- **Alter:** 21
-- **Techs:** Lua, JavaScript, Python, React, TypeScript
-### **Code schafft Welten.**
+### 🧑🏼‍💻IT-Scientist | 💻 Hobby-Developer
+- **Location:** Hamburg
+- **Age:** 21
+- **Techs:** Java | JavaScript | React | TypeScript | VueJs | Python | Lua
 
-### Connect
+### **Code creates worlds.**
+
+### Connect with me
 - **E-Mail** info@paiinz.xyz
 - **Discord** paiinz9
