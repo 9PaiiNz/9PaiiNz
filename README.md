@@ -2,7 +2,7 @@
 
 ### 🧑🏼‍💻IT-Scientist | 💻 Hobby-Developer
 - **Location:** Hamburg
-- **Age:** 21
+- **Age:** 22
 - **Techs:** Java | JavaScript | React | TypeScript | VueJs | Python | Lua
 
 ### **Code creates worlds.**
